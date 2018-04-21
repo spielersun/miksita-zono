@@ -1,0 +1,17 @@
+﻿  main.cpp
+  game.cpp
+c:\users\spiel\source\repos\sdlproject\sdlproject\tilecomponent.h(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\spiel\source\repos\sdlproject\sdlproject\tilecomponent.h(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\spiel\source\repos\sdlproject\sdlproject\tilecomponent.h(66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\spiel\source\repos\sdlproject\sdlproject\tilecomponent.h(67): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\spiel\source\repos\sdlproject\sdlproject\game.cpp(136): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\spiel\source\repos\sdlproject\sdlproject\game.cpp(137): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Collision.cpp
+c:\users\spiel\source\repos\sdlproject\sdlproject\tilecomponent.h(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\spiel\source\repos\sdlproject\sdlproject\tilecomponent.h(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\spiel\source\repos\sdlproject\sdlproject\tilecomponent.h(66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\spiel\source\repos\sdlproject\sdlproject\tilecomponent.h(67): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  sdlproject.vcxproj -> C:\Users\spiel\source\repos\sdlproject\Debug\sdlproject.exe
